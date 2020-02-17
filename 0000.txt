@@ -63,6 +63,19 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 海峡卫视,p8p://0198.02686.cc:16871/5d1a69c90003979611be2f349334f159.ts
 珠江卫视,http://39.135.34.150:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
 南方卫视,http://39.135.34.150:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
+‖地方频道‖,#genre#
+湖南丨湖南教育台,http://pull.hnedutv.com/live/edutv.m3u8
+湖南丨金鹰卡通频道,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000031.m3u8
+湖南丨常德新闻综合,http://zhibo.changdejia.com/cdtv/xwzh.m3u8
+湖南丨常德公共频道,http://zhibo.changdejia.com/cdtv/ggpd.m3u8
+湖南丨湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湖南丨湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+湖南丨湘西新闻综合,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
+湖南丨湘西公共频道,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1381.m3u8
+湖南丨娄底综合频道,http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+湖南丨娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
+湖南丨张家界新闻综合,http://stream.zjjrtv.com/zjjtv1/playlist.m3u8
+湖南丨张家界公共频道,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8
 ‖港台频道‖,#genre#
 台湾丨華 視HD,http://341697390.r.fdccdn.net/live/tw_huashi_hd.m3u8
 台湾丨民 視HD,http://341697390.r.fdccdn.net/live/tw_minshi_hd.m3u8
