@@ -76,6 +76,9 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖南丨娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
 湖南丨张家界新闻综合,http://stream.zjjrtv.com/zjjtv1/playlist.m3u8
 湖南丨张家界公共频道,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8
+浙江丨柯桥新闻综合,http://live.scbtv.cn/hls/news/index.m3u8
+浙江丨柯桥时尚频道,http://live.scbtv.cn/hls/qfc/index.m3u8
+浙江丨金华新闻综合,http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
 ‖港台频道‖,#genre#
 台湾丨華 視HD,http://341697390.r.fdccdn.net/live/tw_huashi_hd.m3u8
 台湾丨民 視HD,http://341697390.r.fdccdn.net/live/tw_minshi_hd.m3u8
