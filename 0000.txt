@@ -78,6 +78,13 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖南丨张家界公共频道,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8
 浙江丨柯桥新闻综合,http://live.scbtv.cn/hls/news/index.m3u8
 浙江丨柯桥时尚频道,http://live.scbtv.cn/hls/qfc/index.m3u8
+浙江丨奉化新闻综合,http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
+浙江丨奉化生活娱乐,http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
+浙江丨舟山新闻综合,http://live.wifizs.cn/xwzh/sd/live.m3u8
+浙江丨舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
+浙江丨舟山群岛旅游,http://live.wifizs.cn/qdly/sd/live.m3u8
+浙江丨景宁新闻综合,http://pili-live-hls.jnbctv.com/jnlive/tv81-1537153703.m3u8
+浙江丨景宁文化旅游,http://pili-live-hls.jnbctv.com/jnlive/tv81-1537429639.m3u8
 浙江丨金华新闻综合,http://stream2.jinhua.com.cn/xwzh/app/live.m3u8
 上海丨上海新闻综合,http://hw-stream.kksmg.com/live/stv5ed4462f.m3u8
 上海丨上海第一财经,http://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8
