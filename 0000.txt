@@ -297,7 +297,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 河北丨邯郸科教频道,http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
 河北丨廊坊新闻综合,http://hbdc.chinashadt.com:2036/live/7.stream/playist.m3u8
 河北丨张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-广西丨贵港新闻综合,http://24tl.qingk.cn/live/ggtvlive01.m3u8
 山西丨大同新闻综合,http://hwzbout.yunshicloud.com/p2984z/k8kl9m.m3u8
 山西丨大同公共频道,http://hwzbout.yunshicloud.com/p2984z/239g8l.m3u8
 山西丨大同煤都生活,http://hwzbout.yunshicloud.com/p2984z/lnbwyz.m3u8
@@ -328,11 +327,8 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 甘肃丨甘肃文化影视,http://stream.gstv.com.cn/whys/sd/live.m3u8
 甘肃丨金昌综合频道,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 甘肃丨金昌公共频道,http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-海南丨三亚新闻综合,http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 贵州丨黔西南综合频道,http://live.qxndt.com/channel2/sd/live.m3u8
 贵州丨黔西南公共频道,http://live.qxndt.com/channel3/sd/live.m3u8
-青海丨西宁新闻综合,http://wshls.butel.com/live/139a3.m3u8
-青海丨西宁生活服务,http://wshls.butel.com/live/147f4.m3u8
 ‖港台频道‖,#genre#
 台湾丨華 視HD,http://341697390.r.fdccdn.net/live/tw_huashi_hd.m3u8
 台湾丨民 視HD,http://341697390.r.fdccdn.net/live/tw_minshi_hd.m3u8
