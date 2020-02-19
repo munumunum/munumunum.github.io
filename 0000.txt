@@ -145,7 +145,16 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 安徽丨凤台综合频道,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 安徽丨含山新闻综合,http://223.241.197.199:1935/live/xinwen/playlist.m3u8
 安徽丨含山影视生活,http://223.241.197.199:1935/live/yingshi/playlist.m3u8
+安徽丨六安新闻综合,http://live.china-latv.com/channel1/sd/live.m3u8
+安徽丨六安公共频道,http://live.china-latv.com/channel2/sd/live.m3u8
+安徽丨铜陵新闻综合,http://dstpush1.retalltech.com/app/stream1.m3u8
+安徽丨铜陵公共频道,http://dstpush1.retalltech.com/app/stream2.m3u8
+安徽丨铜陵科教频道,http://dstpush1.retalltech.com/app/stream3.m3u8
+安徽丨东至文化资讯,http://223.247.33.124:1935/live/wenhua/playlist.m3u8
+安徽丨东至新闻综合,http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+安徽丨东至影视频道,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 安徽丨马鞍山新闻综合,http://live.massp.cn:5011/vod/video_hls/c01.m3u8
+安徽丨马鞍山公共频道,http://live.massp.cn:5011/vod/video_hls/c02.m3u8
 重庆丨万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 重庆丨梁平综合频道,http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
 重庆丨开州综合频道,http://livekaiz.sobeycache.com/kaiz/zb1.m3u8?auth_key=1594446805-0-0-24aaa28d1eac7690bf8572966989d227
