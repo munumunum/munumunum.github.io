@@ -106,9 +106,8 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 上海丨上海纪实人文,http://hw-stream.kksmg.com/live/jspd49d251f8.m3u8
 上海丨上海东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 上海丨上海ICS外语,http://hw-stream.kksmg.com/hls/wypdc4eb57c5.m3u8
-上海丨上海法治天地,http://by4.nty.tv189.cn/live/tm-fztdty-800k.m3u8
-上海丨上海劲爆体育,http://by4.nty.tv189.cn/live/tm-jbsporthd-800k.m3u8
 上海丨上海都市频道,http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8
+上海丨浦东新闻综合,http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
 江苏丨江苏综艺频道,http://by4.nty.tv189.cn/live/tm-jszyty-800k.m3u8
 江苏丨江苏体育休闲,http://by4.nty.tv189.cn/live/tm-jstyhd-800k.m3u8
 江苏丨江苏公共新闻,http://by4.nty.tv189.cn/live/tm-jsgghd-800k.m3u8
@@ -149,11 +148,11 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 安徽丨马鞍山新闻综合,http://live.massp.cn:5011/vod/video_hls/c01.m3u8
 重庆丨万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 重庆丨梁平综合频道,http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
-北京丨北京文艺频道,http://by4.nty.tv189.cn/live/tm-btv2hd-800k.m3u8
-北京丨北京影视频道,http://by4.nty.tv189.cn/live/tm-btv4-800k.m3u8
-北京丨北京纪实频道,http://by4.nty.tv189.cn/live/tm-btvjishihd-800k.m3u8
-北京丨北京新闻频道,http://by4.nty.tv189.cn/live/tm-btv9-800k.m3u8
-北京丨北京少儿频道,http://by4.nty.tv189.cn/live/tm-kaku-800k.m3u8
+北京丨北京新闻频道,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+北京丨北京影视频道,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+北京丨北京文艺频道,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京丨北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京丨北京时装周,http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
 天津丨滨海新闻综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
 天津丨滨海都市生活,http://60.30.52.41/live/bhtv2/playlist.m3u8
 辽宁丨锦州新闻综合,http://24tl.qingk.cn/live/JZZH1.m3u8
