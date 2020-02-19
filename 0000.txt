@@ -283,6 +283,10 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 广东丨河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 广东丨阳江新闻综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 广东丨阳江公共频道,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
+广东丨东莞新闻频道,http://stream.sun0769.com/dgrtv1/mp4:tv1/index.m3u8?channel=1&t=1570433642&ttl=28800&key=fb99d0fff7b90f29b3bfbbc78f33f069&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
+广东丨东莞公共频道,http://stream.sun0769.com/dgrtv1/mp4:tv2/index.m3u8?channel=1&t=1570433512&ttl=28800&key=fe65e427e0b58aec039809377c04b1e0&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
+广东丨鹤山综合频道,http://pili-live-rtmp.68.i2863.com/i2863-68/live_68_293669.m3u8
+广东丨番禺新闻综合,http://live.pybtv.cn/channel1/sd/live.m3u8
 湖北丨湖北电视台,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000013.m3u8
 湖北丨湖北经视频道,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000012.m3u8
 湖北丨湖北公共新闻,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000015.m3u8
