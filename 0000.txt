@@ -220,10 +220,8 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 四川丨影视文艺频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv5hd_4000.m3u8#http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 四川丨星空购物频道,http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
 四川丨妇女儿童频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv7_4000.m3u8#http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-四川丨公共乡村频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctvgg_4000.m3u8
-#http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-四川丨四川峨眉电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctvemdy_4000.m3u8
-#http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+四川丨公共乡村频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctvgg_4000.m3u8#http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+四川丨四川峨眉电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctvemdy_4000.m3u8#http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 四川丨四川科教频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctvkj_4000.m3u8
 四川丨德阳新闻综合,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/dyxwhd_4000.m3u8
 四川丨德阳公共频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/dygghd_4000.m3u8
