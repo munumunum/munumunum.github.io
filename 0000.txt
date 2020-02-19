@@ -148,6 +148,9 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 安徽丨马鞍山新闻综合,http://live.massp.cn:5011/vod/video_hls/c01.m3u8
 重庆丨万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 重庆丨梁平综合频道,http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
+重庆丨开州综合频道,http://livekaiz.sobeycache.com/kaiz/zb1.m3u8?auth_key=1594446805-0-0-24aaa28d1eac7690bf8572966989d227
+重庆丨开州生活频道,http://livekaiz.sobeycache.com/kaiz/zb2.m3u8?auth_key=1594446863-0-0-40c52fb1332d7237113585be622f0ffe
+重庆丨涪陵综合频道,http://livefuling.chinamcache.com/liveful/fldszb001.m3u8
 北京丨北京新闻频道,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京丨北京影视频道,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京丨北京文艺频道,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
