@@ -74,6 +74,10 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖南丨湖南公共频道,http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020007&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨金鹰纪实频道,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨金鹰卡通频道,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南丨长沙新闻频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+湖南丨长沙政法频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+湖南丨长沙女性频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+湖南丨长沙影视频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 湖南丨常德新闻综合,http://zhibo.changdejia.com/cdtv/xwzh.m3u8
 湖南丨常德公共频道,http://zhibo.changdejia.com/cdtv/ggpd.m3u8
 湖南丨湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
@@ -84,6 +88,8 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖南丨娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
 湖南丨张家界新闻综合,http://stream.zjjrtv.com/zjjtv1/playlist.m3u8
 湖南丨张家界公共频道,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8
+湖南丨临武新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_h2jJ9H.m3u8
+湖南丨永兴电视台,http://play-dgv-xhncloud.voc.com.cn/live/5243_xAptJZ.m3u8
 浙江丨柯桥新闻综合,http://live.scbtv.cn/hls/news/index.m3u8
 浙江丨柯桥时尚频道,http://live.scbtv.cn/hls/qfc/index.m3u8
 浙江丨奉化新闻综合,http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
