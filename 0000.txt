@@ -65,6 +65,7 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 南方卫视,http://39.135.34.8:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
 ‖地方频道‖,#genre#
 湖南丨湖南教育台,http://pull.hnedutv.com/live/edutv.m3u8
+湖南丨好吃厨房台,http://124.232.231.246:6610/000000001001/201600020011/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020011&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨芒果乐搜台,http://124.232.231.246:6610/000000001001/201600020010/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020010&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨湖南电视剧,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020006&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨湖南电影频道,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
@@ -72,14 +73,13 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖南丨湖南都市频道,http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020003&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨湖南娱乐频道,http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020004&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨湖南公共频道,http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020007&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+湖南丨湖南公共频道,http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020001&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨金鹰纪实频道,http://124.232.231.246:6610/000000001001/201600020008/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020008&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨金鹰卡通频道,http://124.232.231.246:6610/000000001001/201600020009/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020009&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 湖南丨长沙新闻频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 湖南丨长沙政法频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 湖南丨长沙女性频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
 湖南丨长沙影视频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-湖南丨常德新闻综合,http://zhibo.changdejia.com/cdtv/xwzh.m3u8
-湖南丨常德公共频道,http://zhibo.changdejia.com/cdtv/ggpd.m3u8
 湖南丨湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湖南丨湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湖南丨湘西新闻综合,http://36514.hlsplay.aodianyun.com/tv_radio_36514/tv_channel_1382.m3u8
@@ -104,7 +104,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 上海丨上海第一财经,http://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8
 上海丨上海东方影视,http://by4.nty.tv189.cn/live/tm-shdsj-800k.m3u8
 上海丨上海纪实人文,http://hw-stream.kksmg.com/live/jspd49d251f8.m3u8
-上海丨上海东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 上海丨上海ICS外语,http://hw-stream.kksmg.com/hls/wypdc4eb57c5.m3u8
 上海丨上海都市频道,http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8
 上海丨浦东新闻综合,http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
@@ -141,10 +140,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 安徽丨安徽经济生活,http://zbbf2.ahtv.cn/live/750.m3u8
 安徽丨安徽国际频道,http://zbbf2.ahtv.cn/live/dab.m3u8
 安徽丨安徽综艺频道,http://zbbf2.ahtv.cn/live/758.m3u8
-安徽丨芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8
-安徽丨芜湖生活频道,http://live1.wuhubtv.com/channel2/sd/live.m3u8
-安徽丨芜湖公共频道,http://live1.wuhubtv.com/channel3/sd/live.m3u8
-安徽丨芜湖教育频道,http://live1.wuhubtv.com/channel4/sd/live.m3u8
 安徽丨淮北新闻综合,http://live.0561rtv.cn/xwzh/playlist.m3u8
 安徽丨淮北公共频道,http://live.0561rtv.cn/ggpd/playlist.m3u8
 安徽丨淮北教育频道,http://live.0561rtv.cn/jypd/playlist.m3u8
@@ -170,7 +165,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 北京丨北京影视频道,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京丨北京文艺频道,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京丨北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-北京丨北京时装周,http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
 天津丨滨海新闻综合,http://60.30.52.41/live/bhtv1/playlist.m3u8
 天津丨滨海都市生活,http://60.30.52.41/live/bhtv2/playlist.m3u8
 辽宁丨锦州新闻综合,http://24tl.qingk.cn/live/JZZH1.m3u8
@@ -207,12 +201,8 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 山东丨河东影视频道,http://qkqxzb.qingk.cn/live/linjinghedongtai1.flv
 山东丨河东综合频道,http://qkqxzb.qingk.cn/live/linjinghedongtai2.flv
 山东丨曲阜新闻综合,http://livealone302.iqilu.com/live/qufu/playlist.m3u8
-山东丨寿光蔬菜频道,http://24tl.qingk.cn/live/sgsc.m3u8
-山东丨寿光新闻频道,http://24tl.qingk.cn/live/sgxw.m3u8
 山东丨商河综合频道,http://24tl.qingk.cn/live/shzhtv.m3u8
 山东丨商河影视频道,http://24tl.qingk.cn/live/shystv.m3u8
-山东丨郓城新闻综合,http://24tl.qingk.cn/live/yctv1.m3u8
-山东丨郓城民生综艺,http://24tl.qingk.cn/live/yctv2.m3u8
 山东丨利津文化生活,http://sdlj.chinashadt.com:2036/live/shenghuo.stream/playlist.m3u8
 山东丨利津新闻综合,http://sdlj.chinashadt.com:2036/live/lijin.stream/playlist.m3u8
 山东丨青州新闻综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
@@ -234,7 +224,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 云南丨红河经济生活,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv
 云南丨屏边电视台,http://tv.drs.hhtv.cc:8100/channellive/pbdst.flv
 云南丨迪庆新闻综合,http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-云南丨迪庆藏语频,http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
 云南丨文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 云南丨文山公共频道,http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
 四川丨四川新闻频道,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/sctv4_4000.m3u8#http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
@@ -276,7 +265,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 四川丨南充公共频道,http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv
 四川丨雅安新闻综合,http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
 四川丨雅安公共频道,http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
-四川丨雅安雨城频道,http://flv.drs.tv.yatv.tv:8080/channellive/yucheng.flv
 四川丨内江综合频道,http://njzb.scnj.tv:8091/live/njtv1.m3u8
 四川丨内江公共频道,http://njzb.scnj.tv:8091/live/njtv2.m3u8
 四川丨甘孜新闻综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
@@ -324,7 +312,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 湖北丨武汉教育频道,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 湖北丨随州新闻综合,http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
 湖北丨随州农村频道,http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
-湖北丨黄石新闻综合,http://58.51.195.138:8800/hls/0/index.m3u8
 湖北丨黄石都市频道,http://58.51.195.138:8800/hls/1/index.m3u8
 湖北丨黄石公共频道,http://58.51.195.138:8800/hls/2/index.m3u8
 湖北丨咸宁新闻综合,http://xianning.live.cjyun.org/video/s10140-XNGG.m3u8
@@ -348,7 +335,6 @@ CHC-家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a
 河北丨邯郸公共频道,http://live.hd.hdbs.cn/video/s10001-hdggpd/index.m3u8
 河北丨邯郸科教频道,http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
 河北丨廊坊新闻综合,http://hbdc.chinashadt.com:2036/live/7.stream/playist.m3u8
-河北丨张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 山西丨大同新闻综合,http://hwzbout.yunshicloud.com/p2984z/k8kl9m.m3u8
 山西丨大同公共频道,http://hwzbout.yunshicloud.com/p2984z/239g8l.m3u8
 山西丨大同煤都生活,http://hwzbout.yunshicloud.com/p2984z/lnbwyz.m3u8
