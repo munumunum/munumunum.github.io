@@ -39,7 +39,7 @@ CGTN,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2001656803.m3u8
 深圳卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000292201.m3u8#http://39.135.34.8:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011645&owchid=ystenlive&owsid=1106497909461286475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi%2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A%2fuxi3rN%2bHd%2bNxeQD8d
 湖北卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000294501.m3u8#http://39.135.34.8:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6956052407855047826&owchid=ystenlive&owsid=1106497909461296919&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2bo9LRgIMhzyly%2bN8KnqBuGO27GhSxZzEXYI6euRzJ3HshWQhVCNxJrt91pPA8t7cjGpkhpIVoXJ0Jyemr0DA
 东南卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000292501.m3u8#http://39.135.34.8:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
-厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen4.flv
+厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8#http://cstvpull.live.wscdns.com/live/xiamen4.flv
 河北卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000293401.m3u8#http://39.135.34.8:18890/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017118&owchid=ystenlive&owsid=1106497909461347463&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhCqGL1zPomfLadkujcaGzSGdRg4tEgiolyrwzgikVtMZiTQsF6T0wJRw9axwi4LXY
 吉林卫视,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.135.34.8:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
 广西卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000294201.m3u8#http://39.135.34.8:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=1106497909461204271&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH%2fW8kf2eLOhwcRnwEP0%2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
@@ -305,10 +305,11 @@ CGTN,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2001656803.m3u8
 湖北丨咸宁新闻综合,http://xianning.live.cjyun.org/video/s10140-XNGG.m3u8
 湖北丨恩施新闻综合,http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
 湖北丨恩施公共频道,http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
-福建丨厦门①台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
-福建丨厦门②台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
-福建丨厦门③台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
-福建丨厦门④台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226764/1.m3u8
+福建丨厦门新闻频道,http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
+福建丨厦门海峡频道,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
+福建丨厦门少儿生活,http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
+福建丨厦门影视频道,http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
+福建丨宁德公共频道,http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
 福建丨福州新闻综合,http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
 福建丨福州影视频道,http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
 福建丨福州生活频道,http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
