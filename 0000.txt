@@ -7,8 +7,7 @@ CCTV-05体育频道,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000205103.
 CCTV-06电影频道,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup#http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000203303.m3u8
 CCTV-07国防军事,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000510003.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
 CCTV-08电视剧台,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000203903.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
-CCTV-09纪录频道,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000499403.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergrou
-p
+CCTV-09纪录频道,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000499403.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
 CCTV-10科教频道,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000203503.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
 CCTV-11戏曲频道,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000204103.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
 CCTV-12社会与法,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000202603.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup
