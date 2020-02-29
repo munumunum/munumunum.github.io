@@ -250,6 +250,11 @@ CGTN,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2001656803.m3u8
 四川丨达州新闻综合,http://tv.drs.dzxw.net/channellive/dzrtv-hd1.flv
 四川丨达州公共频道,http://tv.drs.dzxw.net/channellive/dzrtv-hd2.flv
 四川丨达州通川频道,http://tv.drs.dzxw.net/channellive/dzrtv-hd4.flv
+四川丨乐山新闻综合,http://flv.channellive.leshantv.net/live/ch1.flv
+四川丨乐山公共频道,http://flv.channellive.leshantv.net/live/ch2.flv
+四川丨泸州新闻综合,http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+四川丨泸州公共生活,http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8
+四川丨泸州科教频道,http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
 四川丨遂宁综合频道,http://snlive.scsntv.com:8091/live/xwzh.m3u8
 四川丨遂宁公共频道,http://snlive.scsntv.com:8091/live/gggy.m3u8
 四川丨南充新闻综合,http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv
