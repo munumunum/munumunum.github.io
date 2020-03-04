@@ -138,6 +138,9 @@ CGTN,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2001656803.m3u8
 安徽丨安徽经济生活,http://zbbf2.ahtv.cn/live/750.m3u8
 安徽丨安徽国际频道,http://zbbf2.ahtv.cn/live/dab.m3u8
 安徽丨安徽综艺频道,http://zbbf2.ahtv.cn/live/758.m3u8
+安徽丨和县新闻综合,http://hwzbout.yunshicloud.com/i01i85/1o8p4h.m3u8
+安徽丨濉溪新闻综合,http://hwzbout.yunshicloud.com/m87oxo/251011.m3u8
+安徽丨濉溪公共频道,http://hwzbout.yunshicloud.com/m87oxo/h7j86z.m3u8
 安徽丨淮北新闻综合,http://live.0561rtv.cn/xwzh/playlist.m3u8
 安徽丨淮北公共频道,http://live.0561rtv.cn/ggpd/playlist.m3u8
 安徽丨淮北教育频道,http://live.0561rtv.cn/jypd/playlist.m3u8
