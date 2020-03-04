@@ -484,6 +484,17 @@ New TV-超级电视剧,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenliv
 剧集丨康熙微服私访记,https://aldirect.rtmp.huya.com/backsrc/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_2500.m3u8
 剧集丨铁齿铜牙纪晓岚,https://aldirect.rtmp.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_2500.m3u8
 剧集丨我和僵尸有个约会,https://aldirect.rtmp.huya.com/backsrc/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_2500.m3u8
+动漫丨犬夜叉,https://aldirect.rtmp.huya.com/backsrc/1448737884-1448737884-6222281832256241664-2847687572-10057-A-0-1_2500.m3u8
+动漫丨头文字D,https://aldirect.rtmp.huya.com/backsrc/1448737842-1448737842-6222281651867615232-2847687562-10057-A-0-1_2500.m3u8
+动漫丨全职猎人,https://aldirect.rtmp.huya.com/backsrc/43460312-43460312-186660618713956352-2847687638-10057-A-0-1_2500.m3u8
+动漫丨四驱兄弟,https://aldirect.rtmp.huya.com/backsrc/94525224-2472045388-10617354095687630848-2847687664-10057-A-0-1_2500.m3u8
+动漫丨猫和老鼠,https://aldirect.rtmp.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_2500.m3u8
+动漫丨网球王子,https://aldirect.rtmp.huya.com/backsrc/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_2500.m3u8
+动漫丨蜡笔小新,https://aldirect.rtmp.huya.com/backsrc/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_2500.m3u8
+动漫丨黑子的篮球,https://aldirect.rtmp.huya.com/backsrc/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_2500.m3u8
+动漫丨名侦探柯南,https://aldirect.rtmp.huya.com/backsrc/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_2500.m3u8
+动漫丨成龍历险记,https://aldirect.rtmp.huya.com/backsrc/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_2500.m3u8
+动漫丨中华小当家,https://aldirect.rtmp.huya.com/backsrc/29106097-2686804038-11539735473970741248-2777036638-10057-A-1524192214-1_2500.m3u8
 ‖高清地方‖,#genre#
 湖北电视台,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
 湖北经视频道,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
