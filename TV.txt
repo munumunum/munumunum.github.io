@@ -1,39 +1,4 @@
 央视频道,#genre#
-CCTV-1 HD,http://221.179.217.9/PLTV/88888888/224/3221226346/1.m3u8
-CCTV-2 HD,http://221.179.217.9/PLTV/88888888/224/3221226472/1.m3u8
-CCTV-3 HD,http://221.179.217.9/PLTV/88888888/224/3221226471/1.m3u8
-CCTV-4 HD,http://221.179.217.9/PLTV/88888888/224/3221226470/1.m3u8
-CCTV-5 HD,http://221.179.217.9/PLTV/88888888/224/3221226469/1.m3u8
-CCTV-6 HD,http://221.179.217.9/PLTV/88888888/224/3221226468/1.m3u8
-CCTV-7 HD,http://221.179.217.9/PLTV/88888888/224/3221226467/1.m3u8
-CCTV-8 HD,http://221.179.217.9/PLTV/88888888/224/3221226485/1.m3u8
-CCTV-9 HD,http://221.179.217.9/PLTV/88888888/224/3221226465/1.m3u8
-CCTV-10 HD,http://221.179.217.9/PLTV/88888888/224/3221226464/1.m3u8
-CCTV-11 HD,http://221.179.217.9/PLTV/88888888/224/3221226463/1.m3u8
-CCTV-12 HD,http://221.179.217.9/PLTV/88888888/224/3221226462/1.m3u8
-CCTV-13 HD,http://221.179.217.9/PLTV/88888888/224/3221226316/1.m3u8
-CCTV-14 HD,http://221.179.217.9/PLTV/88888888/224/3221226461/1.m3u8
-CCTV-15 HD,http://39.135.250.70/PLTV/88888888/224/3221226055/00000001000000060000000000000501.smil
-CCTV-5+ HD,http://221.179.217.9/PLTV/88888888/224/3221226349/1.m3u8
-CCTV-17 HD,http://221.179.217.9/PLTV/88888888/224/3221226459/1.m3u8
-CETV-1 HD,http://221.179.217.9/PLTV/88888888/224/3221226494/1.m3u8
-CCTV-1 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000018602/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000018602&livemode=1
-CCTV-2 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000023315/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000023315&livemode=1
-CCTV-3 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000013682/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000013682&livemode=1
-CCTV-4 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000002000031664&livemode=1
-CCTV-5 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000025222/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000005000025222&livemode=1
-CCTV-6 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000001737/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000001737&livemode=1
-CCTV-7 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000024341/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000024341&livemode=1
-CCTV-8 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000031433/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000031433&livemode=1
-CCTV-9 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000014583&livemode=1
-CCTV-10 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000023734/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000023734&livemode=1
-CCTV-11 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000019789/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000002000019789&livemode=1
-CCTV-12 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000032494/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000032494&livemode=1
-CCTV-13 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000021303/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000002000021303&livemode=1
-CCTV-14 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000008170/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000008170&livemode=1
-CCTV-15 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000002000008163&livemode=1
-CCTV-5+ HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000018504/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000001000018504&livemode=1
-CCTV-17 HD,http://61.163.111.46/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/index.m3u8?stbId=29fdb821d84ae4e39a96b5b87639ec12&channel-id=ystenlive&Contentid=1000000005000056836&livemode=1
 CCTV-1 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226834/48356507.smil
 CCTV-2 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226655/40417429.smil
 CCTV-4 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226633/40417241.smil
@@ -43,34 +8,11 @@ CCTV-9 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226637/40417257.smil
 CCTV-10 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226718/40417274.smil
 CCTV-11 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
 CCTV-12 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226659/40417266.smil
+CCTV-13 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 CCTV-14 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226641/40418077.smil
 CCTV-15 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 CCTV-5+ HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226714/40417236.smil
 CETV-1 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226661/42185071.smil
-CCTV-5 HD,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-CCTV-1 HD,http://39.130.206.213:6410/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV-2 HD,http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-CCTV-4 HD,http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-CGTN,http://39.130.206.213:6410/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
-CGTN纪录(英),http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-CCTV-1 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225642/index.m3u8
-CCTV-2 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225643/index.m3u8
-CCTV-3 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225634/index.m3u8
-CCTV-4 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225841/index.m3u8
-CCTV-5 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225633/index.m3u8
-CCTV-6 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225632/index.m3u8
-CCTV-7 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225644/index.m3u8
-CCTV-8 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225631/index.m3u8
-CCTV-9 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225646/index.m3u8
-CCTV-10 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225636/index.m3u8
-CCTV-11 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225628/index.m3u8
-CCTV-12 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225637/index.m3u8
-CCTV-13 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-14 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225640/index.m3u8
-CCTV-15 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225641/index.m3u8
-CCTV-5+ HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225706/index.m3u8
-CCTV-17 HD,http://39.134.116.4:18890/PLTV/88888888/224/3221225909/index.m3u8
-CETV-1 HD,http://39.134.116.4:18890/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 卫视频道,#genre#
 黑龙江卫视 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
 湖南卫视 HD,rtsp://112.50.242.148/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
@@ -117,10 +59,13 @@ CETV-1 HD,http://39.134.116.4:18890/PLTV/88888910/224/3221225917/index.m3u8?fmt=
 南方卫视,rtsp://112.50.242.148/PLTV/88888888/224/3221226788/48356344.smil
 三沙卫视,rtsp://112.50.242.148/PLTV/88888888/224/3221226819/57526516.smil
 三沙卫视,http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
-康巴卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&stbId=004003FF0047938264008422F156640C&livemode=1
 康巴卫视,http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
-安多卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&stbId=004003FF0047938264008422F156640C&livemode=1
 云南卫视 HD,http://39.130.206.132:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+黑龙江卫视 HD,http://221.179.217.9/PLTV/88888888/224/3221226498/1.m3u8
+湖南卫视 HD,http://221.179.217.9/PLTV/88888888/224/3221226509/1.m3u8
+浙江卫视 HD,http://221.179.217.9/PLTV/88888888/224/3221226365/1.m3u8
+东方卫视 HD,http://221.179.217.9/PLTV/88888888/224/3221226364/1.m3u8
+江苏卫视 HD,http://221.179.217.9/PLTV/88888888/224/3221226366/1.m3u8
 地方频道,#genre#
 湖南教育台,http://520574.xyz/dl/yfy.php?id=43021
 湖南电视剧,http://520574.xyz/dl/yfy.php?id=43030
@@ -614,165 +559,7 @@ C+频道  HD,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
 有线新闻 HD,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 有线财经 HD,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
 有线娱乐 HD,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-福利频道_0328,#genre#
-18禁 Ⅰ松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-18禁 ⅠHAPPY,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-XY Mix HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6287/index.m3u8
-XY Max HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6286/index.m3u8
-XY Plus HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6288/index.m3u8
-Penthouse Gold,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5011/index.m3u8
-Penthouse Passion,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1073/index.m3u8
-Penthouse Quickies,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5013/index.m3u8
-Reality Kings 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6247/index.m3u8
-Reality Kings 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6249/index.m3u8
-Reality Kings 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6248/index.m3u8
-Reality Kings 4,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6266/index.m3u8
-DDF Network 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6193/index.m3u8
-DDF Network 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6194/index.m3u8
-DDF Network 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6217/index.m3u8
-MYLF 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6236/index.m3u8
-MYLF 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6216/index.m3u8
-Bang Bros 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6173/index.m3u8
-Bang Bros 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6235/index.m3u8
-Babes HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6171/index.m3u8
-Babes TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6172/index.m3u8
-Eroxxx HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5015/index.m3u8
-Vividred HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2162/index.m3u8
-Redlight HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/242/index.m3u8
-Brazzers 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6192/index.m3u8
-Brazzers 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6222/index.m3u8
-Brazzers 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6182/index.m3u8
-Holed,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6221/index.m3u8
-Cum4k,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6190/index.m3u8
-Hardx,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6218/index.m3u8
-Vixen,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6265/index.m3u8
-Tushy,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6261/index.m3u8
-Sexart,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6253/index.m3u8
-Lesbea,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6227/index.m3u8
-Metart,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6233/index.m3u8
-Tiny4K,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6258/index.m3u8
-Femjoy,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6212/index.m3u8
-Blacked,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6178/index.m3u8
-Private,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6245/index.m3u8
-Nubiles,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6238/index.m3u8
-Analized,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6206/index.m3u8
-Japanhdv,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6225/index.m3u8
-Faketaxi,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6202/index.m3u8
-Analized,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6168/index.m3u8
-21Sextury,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6164/index.m3u8
-Cumlouder,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6189/index.m3u8
-SINematica,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6255/index.m3u8
-Publicagent,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6246/index.m3u8
-Littleasians,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6230/index.m3u8
-Clubseventeen,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6186/index.m3u8
-Naughtyamerica,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6237/index.m3u8
-Sexwithmuslims,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6252/index.m3u8
 
-Red XXX,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6281/index.m3u8
-Sexy Hot,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6282/index.m3u8
-Private,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/243/index.m3u8
-Angels,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6169/index.m3u8
-OX-AX HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6239/index.m3u8
-Tushy RAW,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6262/index.m3u8
-Lethal Pass,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6229/index.m3u8
-Lesbian Affair,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6278/index.m3u8
-Brazzers TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/872/index.m3u8
-Extasy 4K,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5014/index.m3u8
-Daughter Swap,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6191/index.m3u8
-Extreme,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6273/index.m3u8
-Exxxotica,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2397/index.m3u8
-Emanuelle,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6272/index.m3u8
-Evil Angel,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6199/index.m3u8
-Evolved Fights,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6200/index.m3u8
-Fast Boyz,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6274/index.m3u8
-French Lover,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2160/index.m3u8
-Hustler HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/244/index.m3u8
-Hitzefrei HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6220/index.m3u8
-Venus,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6284/index.m3u8
-Visit-X TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6263/index.m3u8
-Taboo,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6283/index.m3u8
-True Amateurs,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6260/index.m3u8
-Jusl 89,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5010/index.m3u8
-MvH Hard,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6297/index.m3u8
-Super One,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6298/index.m3u8
-Blue Hustler,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/1064/index.m3u8
-Cherry Pimps,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6185/index.m3u8
-Digital Desire,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6195/index.m3u8
-Digital Playground,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6196/index.m3u8
-Dusk,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6198/index.m3u8
-Dorcel TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/245/index.m3u8
-Dorcel Club,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6197/index.m3u8
-Wicked,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6268/index.m3u8
-White Boxxx,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6267/index.m3u8
-XMO,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6285/index.m3u8
-XXL,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5009/index.m3u8
-Oldtimer,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6279/index.m3u8
-O-la-la,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2161/index.m3u8
-Balkan Erotic,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6270/index.m3u8
-Bangerz,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6271/index.m3u8
-Fap TV 1,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6203/index.m3u8
-Fap TV 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6269/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6211/index.m3u8
-Fap TV 4,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6184/index.m3u8
-Playboy,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/527/index.m3u8
-Playboy LA,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6280/index.m3u8
-Playboy Plus,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6242/index.m3u8
-HOT,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6275/index.m3u8
-HOT XXL,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6276/index.m3u8
-Hot Pleasure,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6277/index.m3u8
-Hot Guys Fuck,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6223/index.m3u8
-Erotic,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6289/index.m3u8
-Erotic 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6290/index.m3u8
-Erotic 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6291/index.m3u8
-Erotic 4,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6292/index.m3u8
-Erotic 6,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6293/index.m3u8
-Erotic 7,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6294/index.m3u8
-Erotic 8,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6295/index.m3u8
-Expression 01,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6187/index.m3u8
-Expression 02,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6188/index.m3u8
-Expression 03,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6179/index.m3u8
-Expression 04,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6175/index.m3u8
-Expression 05,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6177/index.m3u8
-Expression 06,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6176/index.m3u8
-Expression 07,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6180/index.m3u8
-Expression 08,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6251/index.m3u8
-Expression 09,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6219/index.m3u8
-Expression 10,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6226/index.m3u8
-Expression 11,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6228/index.m3u8
-Expression 12,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6231/index.m3u8
-Expression 13,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6244/index.m3u8
-Expression 14,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6215/index.m3u8
-Expression 15,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6214/index.m3u8
-Expression 16,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6257/index.m3u8
-Expression 17,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6224/index.m3u8
-Expression 18,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6167/index.m3u8
-Expression 19,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6183/index.m3u8
-Expression 20,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6213/index.m3u8
-Expression 21,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6250/index.m3u8
-Expression 22,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6234/index.m3u8
-Expression 23,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6256/index.m3u8
-Expression 24,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6243/index.m3u8
-Русская Ночь,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/147/index.m3u8
-Vivid TV Europe,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6264/index.m3u8
-Brazzers 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6181/index.m3u8
-Extasy HD,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6201/index.m3u8
-Bang!,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6174/index.m3u8
-Brazzers TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/910/index.m3u8
-Erotic 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6240/index.m3u8
-Erotic 4,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6241/index.m3u8
-Dorcel TV,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/878/index.m3u8
-Angels,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6170/index.m3u8
-Angels,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6259/index.m3u8
-Fap TV 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6232/index.m3u8
-Fap TV 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6254/index.m3u8
-Fap TV 2,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6204/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6205/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6207/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6208/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6209/index.m3u8
-Fap TV 3,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/6210/index.m3u8
-O-la-la,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/2163/index.m3u8
-Penthouse Quickies,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5012/index.m3u8
 测试频道,#genre#
 杭州导视,http://112.17.40.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
 贵州导视,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
@@ -782,27 +569,6 @@ Penthouse Quickies,http://vna4dxek.rostelekom.xyz/iptv/7EL7K8D4UBXHLP/5012/index
 大连导视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED9E2F7U309C3110K7781F2B0I8492CA2APBM32051F8V1020DZ33519WE791F31D071&playtoken=ABCDEFGH&programid=4200000009.m3u8
 北方广电,http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5E820E4EU3195704BKB3831086IC728662AP8M35E8228V0Z334B7W16011E1B34358FEA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000059.m3u8
 山东教育卫视,http://120.221.5.111:8089/PLTV/88888888/224/3221226049/index.m3u8
-潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
-潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
+潮州综合,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州公共,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
 厦门导视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226764/index.m3u8
-
-怀旧金曲,#genre#
-周传雄-黄昏,https://videocdn.taobao.com/oss/taobao-ugc/55906d8afb4246e296e2c3d1a194b258/1491378904/video.mp4
-李宗盛-凡人歌,https://videocdn.taobao.com/oss/ali-video/c8ca715263a2eff5c0c6742e8e95f421/video.mp4
-李丽芬-得意的笑,https://videocdn.taobao.com/oss/ali-video/18f6bb79a325431dbc9035e93fe68376/video.mp4
-任齐贤-兄弟,https://videocdn.taobao.com/oss/ali-video/2760827a26ee61c1e91b13284e161e9a/video.mp4
-任齐贤-少年游,https://videocdn.taobao.com/oss/ali-video/ca802f2554ac9a7022920d733005f6b7/video.mp4
-任齐贤-心太软,https://videocdn.taobao.com/oss/ali-video/83addf738dab1a56aa12b0b7d5188f22/video.mp4
-任齐贤-死不了,https://videocdn.taobao.com/oss/ali-video/f492f071939eb5dcd6e36ca792b89c5b/video.mp4
-任齐贤-花太香,https://videocdn.taobao.com/oss/ali-video/7662556e4035d5c5b0c524271cfc2456/video.mp4
-任齐贤-沧海一声笑,https://videocdn.taobao.com/oss/ali-video/e163752e374a2d713a4c655dc31e9ef1/video.mp4
-任齐贤-伤心太平洋,https://videocdn.taobao.com/oss/ali-video/1295309af26039559bde90e633a4741a/video.mp4
-任齐贤-浪花一朵朵,https://videocdn.taobao.com/oss/taobao-ugc/08038165a9344f11bb10a3d3a998dde8/1466962140/video.mp4
-任齐贤-对面的女孩看过来,https://videocdn.taobao.com/oss/ali-video/2b925daf84ce4506824cdd4050a739e2/1465387950/video.mp4
-伍佰-白鸽,https://videocdn.taobao.com/oss/ali-video/c0894a42524cdab1e13576c4fa60ac92/video.mp4
-伍佰-浪人情歌,https://videocdn.taobao.com/oss/ali-video/e61adbc01f0ab0f65708228d90901ab2/video.mp4
-伍佰-痛哭的人,https://videocdn.taobao.com/oss/ali-video/c83305d640bfdb0f634600227d902d88/video.mp4
-伍佰-世界第一等,https://videocdn.taobao.com/oss/ali-video/48d90edb8f045aa85fe4be9ab1c3b72c/video.mp4
-伍佰-挪威的森林,https://videocdn.taobao.com/oss/ali-video/437a599927dd4e7df839e92bb0db0b72/video.mp4
-水木年华-在他乡,https://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KXTluPtnjA35555tk4h%40%40sd.mp4
-水木年华-一生有你,https://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/UBZ5YVnb2Dw4HPXT1Sf%40%40hd.mp4
