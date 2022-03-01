@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://z3.ax1x.com/2021/10/14/5lQ0jP.png" group-title="央视频道",CCTV-1
-http://39.134.66.66/PLTV/88888888/224/3221225849/index.m3u8
+rtsp://183.251.61.211:554/PLTV/88888888/224/3221226730/42006742.smil
+rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="https://z3.ax1x.com/2021/10/14/5llxRs.png" group-title="央视频道",CCTV-2
-http://39.134.66.66/PLTV/88888888/224/3221225853/index.m3u8
+http://39.135.135.83/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="https://z3.ax1x.com/2021/10/14/5llqZ8.png" group-title="央视频道",CCTV-3
-http://39.134.66.66/PLTV/88888888/224/3221225853/index.m3u8
+p5p://45.92.126.18:19706/60fd2dbc0002e8d300ed4537251ee06d
+
